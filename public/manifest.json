@@ -1,0 +1,11 @@
+{
+  "name": "Starter",
+  "short_name": "Starter",
+  "icons": [{
+      "src": "favicon.png",
+      "sizes": "256x256"
+  }],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen"
+}
